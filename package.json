@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.5",
-    "@babel/runtime-corejs2": "^7.5.5",
+    "@babel/runtime-corejs2": "^7.13.10",
     "debug": "^4.1.1",
     "graphql": "^14.2.1",
     "graphql-auth-directives": "^2.1.0",
